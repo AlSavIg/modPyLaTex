@@ -142,8 +142,6 @@ pdf/*.gz
 .pyre/
 
 
-__pycache__/
-
 auxillary
 pdf/*.gz
 >>>>>>> 6eb5f30 (For rebase)
