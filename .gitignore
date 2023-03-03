@@ -1,3 +1,5 @@
+.idea
+venv
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -129,4 +131,5 @@ dmypy.json
 .pyre/
 
 
-__pycache__/
+auxillary
+pdf/*.gz
