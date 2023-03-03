@@ -1,0 +1,42 @@
+\input{preamble}
+
+\begin{document}
+\import{./}{title_page.tex}
+
+%\large
+
+\setcounter{page}{2}
+\tableofcontents
+
+\newpage
+\section{Экспериментальные данные}
+\subsection{Теория}
+\lipsum[2-4]
+
+\subsection{Практика}
+\lipsum[2-4]
+
+\section{Обработка экспериментальных данных}
+\subsection{Результаты}
+\lipsum[2-4]
+\cite{Collaboration2020}
+\cite{Reissel2016}
+
+\newpage
+\import{./}{Template/complex_report.tex}
+
+\newpage
+\import{./}{SourceCodeInputExample.tex}
+
+\newpage
+\printbibliography[
+heading=bibintoc,
+]
+\printbibliography[
+heading=subbibintoc,
+title={Subbibliography}
+]
+% Библиографию лучше всего задавать через {}, а не "". 
+% В последнем случае могут возникать проблемы с переносом текста
+
+\end{document}

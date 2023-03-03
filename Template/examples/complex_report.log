@@ -1,0 +1,309 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2023.1.21)  30 JAN 2023 18:39
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./complex_report.tex
+(complex_report.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-01-16>
+(C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/latex/base\article.cls
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+(C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/latex/base\size10.clo
+File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/latex/base\fontenc.st
+y
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+) (C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/latex/lm\lmodern.sty
+Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/latex/base\textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/latex/lastpage\lastpage
+.sty
+Package: lastpage 2021/09/03 v1.2n Refers to last page's name (HMM; JPG)
+)
+(C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/latex/geometry\geometry
+.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/latex/graphics\keyval.s
+ty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+(C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/generic/iftex\ifvtex.st
+y
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count193
+\Gm@cntv=\count194
+\c@Gm@tempcnt=\count195
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
+\Gm@dimlist=\toks19
+
+(C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/latex/geometry\geometry
+.cfg))
+(C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/latex/graphics\color.st
+y
+Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
+
+(C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/latex/graphics-cfg\colo
+r.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+
+(C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/latex/graphics-def\pdft
+ex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+)
+(C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/latex/graphics\mathcolo
+r.ltx))
+(C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/latex/tabu\tabu.sty
+Package: tabu 2019/01/11 v2.9 - flexible LaTeX tabulars (FC+tabu-fixed)
+
+(C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/latex/tools\array.sty
+Package: array 2022/03/10 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen149
+\ar@mcellbox=\box51
+\extrarowheight=\dimen150
+\NC@list=\toks20
+\extratabsurround=\skip50
+\backup@length=\skip51
+\ar@cellbox=\box52
+)
+(C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/latex/varwidth\varwidth
+.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box53
+\sift@deathcycles=\count196
+\@vwid@loff=\dimen151
+\@vwid@roff=\dimen152
+)
+\c@taburow=\count197
+\tabu@nbcols=\count198
+\tabu@cnt=\count199
+\tabu@Xcol=\count266
+\tabu@alloc=\count267
+\tabu@nested=\count268
+\tabu@target=\dimen153
+\tabu@spreadtarget=\dimen154
+\tabu@naturalX=\dimen155
+\tabucolX=\dimen156
+\tabu@Xsum=\dimen157
+\extrarowdepth=\dimen158
+\abovetabulinesep=\dimen159
+\belowtabulinesep=\dimen160
+\tabustrutrule=\dimen161
+\tabu@thebody=\toks21
+\tabu@footnotes=\toks22
+\tabu@box=\box54
+\tabu@arstrutbox=\box55
+\tabu@hleads=\box56
+\tabu@vleads=\box57
+\tabu@cellskip=\skip52
+)
+(C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/latex/ragged2e\ragged2e
+.sty
+Package: ragged2e 2022/11/13 v3.2 ragged2e Package
+\CenteringLeftskip=\skip53
+\RaggedLeftLeftskip=\skip54
+\RaggedRightLeftskip=\skip55
+\CenteringRightskip=\skip56
+\RaggedLeftRightskip=\skip57
+\RaggedRightRightskip=\skip58
+\CenteringParfillskip=\skip59
+\RaggedLeftParfillskip=\skip60
+\RaggedRightParfillskip=\skip61
+\JustifyingParfillskip=\skip62
+\CenteringParindent=\skip63
+\RaggedLeftParindent=\skip64
+\RaggedRightParindent=\skip65
+\JustifyingParindent=\skip66
+)
+(C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/latex/tools\longtable.s
+ty
+Rollback for package 'longtable' requested -> version 'v4.13'.
+         This corresponds to the release introduced on 2020-01-02.
+
+(C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/latex/tools\longtable-2
+020-01-07.sty
+Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
+\LTleft=\skip67
+\LTright=\skip68
+\LTpre=\skip69
+\LTpost=\skip70
+\LTchunksize=\count269
+\LTcapwidth=\dimen162
+\LT@head=\box58
+\LT@firsthead=\box59
+\LT@foot=\box60
+\LT@lastfoot=\box61
+\LT@cols=\count270
+\LT@rows=\count271
+\c@LT@tables=\count272
+\c@LT@chunks=\count273
+\LT@p@ftn=\toks23
+))
+(C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+
+(C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/latex/graphics-cfg\colo
+r.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+
+(C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/latex/colortbl\colortbl
+.sty
+Package: colortbl 2022/06/20 v1.0f Color table columns (DPC)
+\everycr=\toks24
+\minrowclearance=\skip71
+\rownum=\count274
+)
+LaTeX Info: Redefining \color on input line 711.
+
+(C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/latex/graphics\mathcolo
+r.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+)
+(C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/latex/graphics\graphicx
+.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/latex/graphics\graphics
+.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/latex/graphics-cfg\grap
+hics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+)
+\Gin@req@height=\dimen163
+\Gin@req@width=\dimen164
+)
+(C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/latex/fancyhdr\fancyhdr
+.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip72
+\f@nch@O@elh=\skip73
+\f@nch@O@erh=\skip74
+\f@nch@O@olh=\skip75
+\f@nch@O@orh=\skip76
+\f@nch@O@elf=\skip77
+\f@nch@O@erf=\skip78
+\f@nch@O@olf=\skip79
+\f@nch@O@orf=\skip80
+)
+(C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/latex/tools\tabularx.st
+y
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen165
+\TX@old@table=\dimen166
+\TX@old@col=\dimen167
+\TX@target=\dimen168
+\TX@delta=\dimen169
+\TX@cols=\count275
+\TX@ftn=\toks25
+))
+Runaway argument?
+{\renewcommand {\headrulewidth }{0pt}\renewcommand {\footrulewidth }{\ETC.
+! File ended while scanning use of \f@nch@pagestyle.
+<inserted text> 
+                \par 
+<*> ./complex_report.tex
+                        
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
+! Emergency stop.
+<*> ./complex_report.tex
+                        
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 3441 strings out of 476405
+ 53415 string characters out of 2786728
+ 1849324 words of memory out of 3000000
+ 23796 multiletter control sequences out of 15000+600000
+ 513050 words of font info for 33 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,0n,62p,249b,38s stack positions out of 10000i,1000n,20000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!

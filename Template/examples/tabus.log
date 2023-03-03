@@ -1,0 +1,388 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2023.1.21)  22 JAN 2023 13:48
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./tabus.tex
+(tabus.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-01-16>
+(C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/latex/base\article.cls
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+(C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/latex/base\size10.clo
+File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/latex/base\fontenc.st
+y
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+) (C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/latex/lm\lmodern.sty
+Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/latex/base\textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/latex/lastpage\lastpage
+.sty
+Package: lastpage 2021/09/03 v1.2n Refers to last page's name (HMM; JPG)
+)
+(C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/latex/geometry\geometry
+.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/latex/graphics\keyval.s
+ty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+(C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/generic/iftex\ifvtex.st
+y
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count193
+\Gm@cntv=\count194
+\c@Gm@tempcnt=\count195
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
+\Gm@dimlist=\toks19
+
+(C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/latex/geometry\geometry
+.cfg))
+(C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/latex/tools\longtable.s
+ty
+Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
+\LTleft=\skip50
+\LTright=\skip51
+\LTpre=\skip52
+\LTpost=\skip53
+\LTchunksize=\count196
+\LTcapwidth=\dimen149
+\LT@head=\box51
+\LT@firsthead=\box52
+\LT@foot=\box53
+\LT@lastfoot=\box54
+\LT@gbox=\box55
+\LT@cols=\count197
+\LT@rows=\count198
+\c@LT@tables=\count199
+\c@LT@chunks=\count266
+\LT@p@ftn=\toks20
+) (C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/latex/tabu\tabu.sty
+Package: tabu 2019/01/11 v2.9 - flexible LaTeX tabulars (FC+tabu-fixed)
+(C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/latex/tools\array.sty
+Package: array 2022/03/10 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen150
+\ar@mcellbox=\box56
+\extrarowheight=\dimen151
+\NC@list=\toks21
+\extratabsurround=\skip54
+\backup@length=\skip55
+\ar@cellbox=\box57
+)
+(C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/latex/varwidth\varwidth
+.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box58
+\sift@deathcycles=\count267
+\@vwid@loff=\dimen152
+\@vwid@roff=\dimen153
+)
+\c@taburow=\count268
+\tabu@nbcols=\count269
+\tabu@cnt=\count270
+\tabu@Xcol=\count271
+\tabu@alloc=\count272
+\tabu@nested=\count273
+\tabu@target=\dimen154
+\tabu@spreadtarget=\dimen155
+\tabu@naturalX=\dimen156
+\tabucolX=\dimen157
+\tabu@Xsum=\dimen158
+\extrarowdepth=\dimen159
+\abovetabulinesep=\dimen160
+\belowtabulinesep=\dimen161
+\tabustrutrule=\dimen162
+\tabu@thebody=\toks22
+\tabu@footnotes=\toks23
+\tabu@box=\box59
+\tabu@arstrutbox=\box60
+\tabu@hleads=\box61
+\tabu@vleads=\box62
+\tabu@cellskip=\skip56
+)
+(C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/latex/ragged2e\ragged2e
+.sty
+Package: ragged2e 2022/11/13 v3.2 ragged2e Package
+\CenteringLeftskip=\skip57
+\RaggedLeftLeftskip=\skip58
+\RaggedRightLeftskip=\skip59
+\CenteringRightskip=\skip60
+\RaggedLeftRightskip=\skip61
+\RaggedRightRightskip=\skip62
+\CenteringParfillskip=\skip63
+\RaggedLeftParfillskip=\skip64
+\RaggedRightParfillskip=\skip65
+\JustifyingParfillskip=\skip66
+\CenteringParindent=\skip67
+\RaggedLeftParindent=\skip68
+\RaggedRightParindent=\skip69
+\JustifyingParindent=\skip70
+)
+(C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/latex/listings\listings
+.sty
+\lst@mode=\count274
+\lst@gtempboxa=\box63
+\lst@token=\toks24
+\lst@length=\count275
+\lst@currlwidth=\dimen163
+\lst@column=\count276
+\lst@pos=\count277
+\lst@lostspace=\dimen164
+\lst@width=\dimen165
+\lst@newlines=\count278
+\lst@lineno=\count279
+\lst@maxwidth=\dimen166
+
+(C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/latex/listings\lstmisc.
+sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count280
+\lst@skipnumbers=\count281
+\lst@framebox=\box64
+)
+(C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/latex/listings\listings
+.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+(C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+
+(C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/latex/graphics-cfg\colo
+r.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+
+(C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/latex/graphics-def\pdft
+ex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+)
+(C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/latex/graphics\mathcolo
+r.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+)
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 41
+.
+
+(C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/latex/lm\t1lmr.fd
+File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+(C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/latex/l3backend\l3backe
+nd-pdftex.def
+File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count282
+\l__pdf_internal_box=\box65
+) (tabus.aux)
+\openout1 = `tabus.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             https://www.ctan.org/pkg/pageslts
+(lastpage)             ! on input line 41.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: landscape includehead includefoot 
+* h-part:(L,W,R)=(108.405pt, 578.15999pt, 108.405pt)
+* v-part:(T,H,B)=(108.405pt, 397.485pt, 108.405pt)
+* \paperwidth=794.96999pt
+* \paperheight=614.295pt
+* \textwidth=578.15999pt
+* \textheight=337.485pt
+* \oddsidemargin=36.13501pt
+* \evensidemargin=36.13501pt
+* \topmargin=36.13501pt
+* \headheight=20.0pt
+* \headsep=10.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\c@lstlisting=\count283
+
+(C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/context/base/mkii\supp-
+pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count284
+\scratchdimen=\dimen167
+\scratchbox=\box66
+\nofMPsegments=\count285
+\nofMParguments=\count286
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count287
+\MPscratchDim=\dimen168
+\MPnumerator=\count288
+\makeMPintoPDFobject=\count289
+\everyMPtoPDFconversion=\toks26
+)
+(C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/latex/listings\lstlang1
+.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 4
+4.
+
+(C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/latex/lm\t1lmtt.fd
+File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+(tabus.py [1
+
+{C:/Users/User/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}])
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 4
+6.
+
+(C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/latex/lm\ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 4
+6.
+
+(C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/latex/lm\omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
+46.
+
+(C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/latex/lm\omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
+46.
+
+(C:\Users\User\AppData\Local\Programs\MiKTeX_Second\tex/latex/lm\omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 46.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 46.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 46.
+
+[2] 
+AED: lastpage setting LastPage
+[3] (tabus.aux) ) 
+Here is how much of TeX's memory you used:
+ 5372 strings out of 476405
+ 80769 string characters out of 2786728
+ 2102324 words of memory out of 3000000
+ 25690 multiletter control sequences out of 15000+600000
+ 536658 words of font info for 49 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,13n,62p,224b,1878s stack positions out of 10000i,1000n,20000p,200000b,80000s
+{C:/Users/User/AppData/Local/Programs/MiKTeX_Second/fonts/enc/
+dvips/lm/lm-ec.enc}<C:/Users/User/AppData/Local/Programs/MiKTeX_Second/fonts/ty
+pe1/public/lm/lmbx10.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX_Second/fo
+nts/type1/public/lm/lmr10.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX_Seco
+nd/fonts/type1/public/lm/lmr5.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX_
+Second/fonts/type1/public/lm/lmtt8.pfb>
+Output written on tabus.pdf (3 pages, 111869 bytes).
+PDF statistics:
+ 33 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

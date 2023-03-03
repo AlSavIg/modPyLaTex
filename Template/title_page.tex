@@ -1,0 +1,133 @@
+\documentclass[12pt, a4paper]{article}%
+% \large == 14 pt (with 12 pt document)
+% see C:/Users/User/Documents/Рабочие документы/ITMO/LATEX/Samples/fonts.gif
+
+\usepackage[utf8]{inputenc}%
+\usepackage{lmodern}%
+\usepackage{textcomp}%
+\usepackage{lastpage}%
+\usepackage{fontenc}%
+\usepackage{tempora}% Нормальный Times доступен в XeLaTex компиляторе
+% (можно задать любой сторонний шрифт через fontenc) - ДЛЯ ДИПЛОМА
+\usepackage[english, russian]{babel}
+
+\usepackage{newtxmath}
+
+\usepackage{geometry}%
+\geometry{head=20pt,margin=0.5in,bottom=0.6in,includeheadfoot=True}%
+\usepackage{color}%
+\usepackage{tabu}%
+\usepackage{ragged2e}%
+\usepackage{longtable}[=v4.13]%
+\usepackage[table]{xcolor}%
+\usepackage{graphicx}%
+\usepackage{fancyhdr}%
+\usepackage{tabularx}%
+
+\usepackage{lipsum}
+
+\usepackage{alltt}
+\usepackage{datetime}
+\usepackage{setspace}
+\usepackage{tocbibind}
+\usepackage{csquotes}
+\usepackage[
+backend=biber,
+style=alphabetic,
+sorting=ynt,
+]{biblatex}
+\usepackage{listings}
+
+\newdateformat{yeardate}{\THEYEAR}
+
+\begin{document}
+	% Можно создать команду по генерации титульного листа с подстановкой моих параметров (имя преподавателя, дата сдачи,
+	% возможно, факультет, для унификации стандарта по остальным кафедрам, номер и название ЛР)
+	\begin{titlepage}
+		\newpage
+		\begin{tabular}{c c}%
+			\begin{minipage}[l]{0.59\textwidth}%
+
+				\flushleft
+				\begin{small}%
+					\begin{center}
+						\textbf{Санкт-Петербургский национальный исследовательский
+							университет информационных технологий, механики и оптики}%
+					\end{center}
+				\end{small}%
+
+				\begin{small}%
+					\begin{center}
+						\setstretch{0}
+						\textbf{УЧЕБНЫЙ ЦЕНТР ОБЩЕЙ ФИЗИКИ ФТФ [Вставить свое название]}%
+					\end{center}
+				\end{small}%
+			\end{minipage}%
+
+			&\begin{minipage}[l]{0.30\textwidth}%
+				\flushright
+				\includegraphics[scale=0.85]{C:/Users/User/Documents/Рабочие документы/ITMO/LATEX/Samples/ITMO_logo.jpg}%
+			\end{minipage}%
+		\end{tabular}
+
+		% horizontal line
+		\begin{center}
+			\par\noindent\rule{0.95\textwidth}{2pt}
+		\end{center}
+
+		\begin{tabular}{p{1em} p{22.3em} p{3em}}%
+			&
+			\begin{minipage}[r]{0.3\textwidth}%
+				\setstretch{1}
+				Группа: \textbf{P32201}
+				\newline%
+				%
+				Студент: \textbf{Савчук А. И.}%
+				\newline%
+				%
+				Преподаватель: \textbf{Преподаватель}%
+			\end{minipage}
+
+			&\begin{minipage}[r]{0.3\textwidth}%
+					\setstretch{1}
+					К работе допущен: \underline{\textbf{ДД.ММ.ГГГГ}\hspace{0.51em}}%
+					\newline%
+					%
+					Работа выполнена: \underline{\textbf{ДД.ММ.ГГГГ}\hspace{0.67em}}%
+					\newline%
+					%
+					Отчет принят: \hrulefill%
+			\end{minipage}%
+		\end{tabular}%
+
+		\vspace{6em}
+
+		\begin{center}
+			%\textsc{\textbf{}}
+			\Large \textbf{Рабочий протокол и отчет} \linebreak
+			\textbf{по лабораторной работе №[НОМЕР]}
+		\end{center}
+
+		\vspace{0.02em}
+
+		\begin{center}
+			\large
+			[Название лабораторной работы]
+		\end{center}
+
+		%\vspace{6em}
+		%\begin{alltt}
+		%	Научный руководитель
+		%	д.ф.м.н., Andrey В.А.
+		%	Рецензент
+		%	к.ф.-м.н. Olegovich В.И.
+		%\end{alltt}
+
+
+		\vspace{\fill}
+
+		\begin{center}
+			Санкт-Петербург \yeardate \today
+		\end{center}
+	\end{titlepage}
+\end{document}

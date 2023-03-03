@@ -1,0 +1,53 @@
+\documentclass{article}%
+\usepackage[T1]{fontenc}%
+\usepackage[utf8]{inputenc}%
+\usepackage{lmodern}%
+\usepackage{textcomp}%
+\usepackage{lastpage}%
+\usepackage{geometry}%
+\geometry{landscape=True,margin=1.5in,headheight=20pt,headsep=10pt,includeheadfoot=True}%
+\usepackage{longtable}%
+\usepackage{tabu}%
+\usepackage{ragged2e}%
+\usepackage{listings}
+\usepackage{xcolor}
+
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+
+\lstdefinestyle{mystyle}{
+	backgroundcolor=\color{backcolour},
+	commentstyle=\color{codegreen},
+	keywordstyle=\color{magenta},
+	numberstyle=\tiny\color{codegray},
+	stringstyle=\color{codepurple},
+	basicstyle=\ttfamily\footnotesize,
+	breakatwhitespace=false,
+	breaklines=true,
+	captionpos=b,
+	keepspaces=true,
+	numbers=left,
+	numbersep=5pt,
+	showspaces=false,
+	showstringspaces=false,
+	showtabs=false,
+	tabsize=2
+}
+
+\lstset{tabsize=2,
+	breaklines,
+	columns=fullflexible,
+	flexiblecolumns,
+	numbers=left,
+	numberstyle={\footnotesize},
+	extendedchars=\true,
+	style=mystyle
+}
+
+\begin{document}%
+\normalsize%
+The next code will be directly imported from a file
+\lstinputlisting[language=Python]{../src/complex_report.py}
+\end{document}

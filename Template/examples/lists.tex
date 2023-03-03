@@ -1,0 +1,50 @@
+\documentclass{article}%
+\usepackage[T1]{fontenc}%
+\usepackage[utf8]{inputenc}%
+\usepackage{lmodern}%
+\usepackage{textcomp}%
+\usepackage{lastpage}%
+\usepackage{enumitem}%
+%
+%
+%
+\begin{document}%
+\normalsize%
+\section{"Itemize" list}%
+\label{sec:Itemizelist}%
+\begin{itemize}%
+\item%
+the first item%
+\item%
+the second item%
+\item%
+the third etc%
+\ldots%
+\end{itemize}
+
+%
+\section{"Enumerate" list}%
+\label{sec:Enumeratelist}%
+\begin{enumerate}[label=\alph*),start=20]%
+\item%
+the first item%
+\item%
+the second item%
+\item%
+the third etc \ldots%
+\end{enumerate}
+
+%
+\section{"Description" list}%
+\label{sec:Descriptionlist}%
+\begin{description}%
+\item[First]%
+The first item%
+\item[Second]%
+The second item%
+\item[Third]%
+The third etc \ldots%
+\end{description}
+
+%
+\end{document}
