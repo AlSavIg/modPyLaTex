@@ -130,6 +130,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-
-auxillary/*
-pdf/*.gz
+# TexStudio
+lab_3_0_0_physics/auxillary/*
+lab_3_0_0_physics/pdf/*.synctex.gz

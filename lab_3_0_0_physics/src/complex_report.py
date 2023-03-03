@@ -31,7 +31,7 @@ def generate_unique():
                                     mapper=bold,
                                     color="lightgray")
             else:
-                print(row.chanel)
+                # print(row.chanel)
                 longtable_1.add_row([NoEscape(row.chanel), row.measurement])
             longtable_1.add_hline()
 
