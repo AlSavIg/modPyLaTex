@@ -128,20 +128,8 @@ venv.bak/
 dmypy.json
 
 # Pyre type checker
-<<<<<<< HEAD
-<<<<<<< HEAD
 .pyre/
 
 
 auxillary
 pdf/*.gz
-=======
-.pyre/
->>>>>>> 91335a9 (Deleted gurbage)
-=======
-.pyre/
-
-
-auxillary
-pdf/*.gz
->>>>>>> 6eb5f30 (For rebase)
