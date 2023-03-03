@@ -128,8 +128,12 @@ venv.bak/
 dmypy.json
 
 # Pyre type checker
+<<<<<<< HEAD
 .pyre/
 
 
 auxillary
 pdf/*.gz
+=======
+.pyre/
+>>>>>>> 91335a9 (Deleted gurbage)
